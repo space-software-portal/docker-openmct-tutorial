@@ -10,4 +10,4 @@ Apache 2.0 License
 
 Please see OpenMCT License.
 
-https://github.com/nasa/openmct/blob/master/LICENSE.md
+https://github.com/nasa/openmct-tutorial/blob/completed/LICENSE.md
